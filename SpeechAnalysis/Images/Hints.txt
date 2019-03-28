@@ -1,0 +1,2 @@
+- The "Partition key value" must be provided according to its type. String value must be placed between qoutes like "string value"
+- Cosmos DB document must include an id (Guid function will work)
